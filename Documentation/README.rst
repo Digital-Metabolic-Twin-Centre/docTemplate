@@ -1,7 +1,7 @@
 Documentation Notes
 ===================
 
-These pages are written in reStructuredText (`.rst`) and built by Sphinx.
+These pages are written in reStructuredText (`.rst`) and built by Sphinx. 
 
 Local preview
 -------------
