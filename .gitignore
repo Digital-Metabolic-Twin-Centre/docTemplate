@@ -1,6 +1,0 @@
-# Sphinx output
-Documentation/_build/
-
-# Python
-__pycache__/
-*.pyc
