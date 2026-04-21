@@ -1,7 +1,7 @@
-# Template Website
+## Template Website
 https://digital-metabolic-twin-centre.github.io/docTemplate/index.html
 
-# Documentation Template (Sphinx + gh-pages CI)
+## Documentation Template (Sphinx + gh-pages CI)
 
 This repository is a template for student projects with documentation generated from `.rst` files using Sphinx.
 
