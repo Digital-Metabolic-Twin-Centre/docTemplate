@@ -1,4 +1,4 @@
-# Student Documentation Template (Sphinx + gh-pages CI)
+# Documentation Template (Sphinx + gh-pages CI)
 
 This repository is a template for student projects with documentation generated from `.rst` files using Sphinx.
 
