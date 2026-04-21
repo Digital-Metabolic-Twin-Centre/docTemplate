@@ -1,3 +1,6 @@
+# Template Website
+https://digital-metabolic-twin-centre.github.io/docTemplate/index.html
+
 # Documentation Template (Sphinx + gh-pages CI)
 
 This repository is a template for student projects with documentation generated from `.rst` files using Sphinx.
@@ -7,7 +10,6 @@ This repository is a template for student projects with documentation generated 
 - CI runs only on pushes to the `gh-pages` branch.
 - CI builds docs from `Documentation/`.
 - CI copies generated HTML to branch root and commits it.
-- There is no pull request trigger.
 
 Workflow file:
 - `.github/workflows/sphinx-docs.yml`
