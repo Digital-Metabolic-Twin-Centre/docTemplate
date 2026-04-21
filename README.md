@@ -12,7 +12,7 @@ This repository is a template for student projects with documentation generated 
 Workflow file:
 - `.github/workflows/sphinx-docs.yml`
 
-## How to use this template in a student project
+## How to use this template in a student project 
 
 ### Option A: New repository from this template
 
