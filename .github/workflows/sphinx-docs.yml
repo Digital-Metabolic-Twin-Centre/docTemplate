@@ -40,6 +40,9 @@ jobs:
             --exclude='.git/' \
             --exclude='Documentation/' \
             --exclude='.github/' \
+            --exclude='.doctrees/' \
+            --exclude='.buildinfo' \
+            --exclude='.buildinfo.bak' \
             --exclude='README.md' \
             --exclude='.nojekyll' \
             Documentation/_build/html/ ./

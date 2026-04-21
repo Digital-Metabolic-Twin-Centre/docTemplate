@@ -1,7 +1,7 @@
 from datetime import datetime
 
 project = "Student Project Documentation"
-author = "Student"
+author = "Digital Metabolic Twin Centre"
 copyright = f"{datetime.now().year}, {author}"
 
 extensions = [
