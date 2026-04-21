@@ -1,7 +1,7 @@
 Documentation Notes
 ===================
 
-These pages are written in reStructuredText (`.rst`) and built by Sphinx. 
+These pages are written in reStructuredText (`.rst`) and built by Sphinx.
 
 Local preview
 -------------
@@ -13,5 +13,3 @@ Local preview
    make html
 
 Open ``Documentation/_build/html/index.html`` in your browser.
-
-.. note:: CI trigger update.
