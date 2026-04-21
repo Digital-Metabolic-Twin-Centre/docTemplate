@@ -13,3 +13,5 @@ Local preview
    make html
 
 Open ``Documentation/_build/html/index.html`` in your browser.
+
+.. note:: CI trigger update.
